@@ -1,0 +1,11 @@
+SQL Practice class 1– Student Database
+1. Create a Student Database
+Create a database named student_db. Check whether it exists and then use the database.
+2. Create a Student Table
+Create a students table with student_id, student_name, age, course, and fees.
+3. ALTER TABLE
+Add phone and city columns to the students table. Then rename student_name to full_name.
+4. Insert Data
+Insert 10 student records into the students table using both single-row and multiple-row INSERT statements.
+5. Retrieve Data
+Write queries to: • Display all students. • Display only student_id and full_name. • Display unique courses. • Display student_id as ID and full_name as Student_Name.
