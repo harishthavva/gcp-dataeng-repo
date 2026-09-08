@@ -1,0 +1,22 @@
+### NOT NULL Constraint
+
+* How do you create a `customers` table with `customer_id` as the PRIMARY KEY, `customer_name` as NOT NULL, and `email` as UNIQUE?
+
+* What happens when you try to insert a customer without providing a `customer_name`?
+
+* Why does the NOT NULL constraint prevent this insertion?
+
+### PRIMARY KEY Constraint
+
+* What happens when you insert a customer with `customer_id = 1`?
+
+* What happens when you try to insert another customer with the same `customer_id = 1`?
+
+* What error do you get, and why does it occur?
+
+### UNIQUE KEY Constraint
+
+* What happens when you insert two customers with different `customer_id` values but the same email address?
+
+* Why does the UNIQUE constraint prevent the second insertion?
+
